@@ -1,4 +1,4 @@
-FROM python:3.6.1
+FROM python:3.6
 
 WORKDIR /usr/src/app
 ADD requirements.txt /usr/src/app/requirements.txt
